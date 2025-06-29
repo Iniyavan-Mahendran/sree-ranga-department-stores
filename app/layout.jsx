@@ -17,8 +17,8 @@ import Sidebar from '@/components/Layout/Sidebar';
 import Footer from '@/components/Layout/Footer';
 import CartSidebar from '@/components/Cart/CartSidebar';
 import MobileMenu from '@/components/Layout/MobileMenu';
-import Notification from '@/components/UI/Notification';
-import ErrorBoundary from '@/components/UI/ErrorBoundary';
+import Notification from '@/components/ui/Notification';
+import ErrorBoundary from '@/components/ui/ErrorBoundary';
 import './globals.css';
 
 export default function RootLayout({ children }) {
