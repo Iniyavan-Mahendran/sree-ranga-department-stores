@@ -1,0 +1,70 @@
+# Application Configuration
+# This file contains all the settings for our Spring Boot application
+
+server:
+  port: 8080
+  servlet:
+    context-path: /api
+
+spring:
+  # Database Configuration
+  datasource:
+    url: jdbc:postgresql://localhost:5432/sree_ranga_db
+    username: ${DB_USERNAME:postgres}
+    password: ${DB_PASSWORD:password}
+    driver-class-name: org.postgresql.Driver
+  
+  # JPA/Hibernate Configuration
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+    properties:
+      hibernate:
+        format_sql: true
+        dialect: org.hibernate.dialect.PostgreSQLDialect
+  
+  # Application Name
+  application:
+    name: sree-ranga-backend
+
+# JWT Configuration
+jwt:
+  secret: ${JWT_SECRET:sree-ranga-super-secret-key-2024}
+  expiration: 86400000 # 24 hours in milliseconds
+
+# API Documentation
+springdoc:
+  api-docs:
+    path: /v3/api-docs
+  swagger-ui:
+    path: /swagger-ui.html
+    operationsSorter: method
+
+# Logging Configuration
+logging:
+  level:
+    com.sreeranga: DEBUG
+    org.springframework.security: DEBUG
+    org.hibernate.SQL: DEBUG
+  pattern:
+    console: "%d{yyyy-MM-dd HH:mm:ss} - %msg%n"
+    file: "%d{yyyy-MM-dd HH:mm:ss} [%thread] %-5level %logger{36} - %msg%n"
+
+# Management/Actuator Configuration
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health,info,metrics
+  endpoint:
+    health:
+      show-details: when-authorized
+
+# Application Info
+info:
+  app:
+    name: Sree Ranga Department Stores
+    description: E-commerce backend API
+    version: 1.0.0
+    developer: Sree Ranga Team

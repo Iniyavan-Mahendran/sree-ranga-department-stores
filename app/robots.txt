@@ -1,0 +1,31 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://sreeranga.com/sitemap.xml
+
+# Disallow admin and private areas
+Disallow: /admin/
+Disallow: /api/
+Disallow: /auth/
+Disallow: /_next/
+Disallow: /checkout/
+Disallow: /profile/
+
+# Allow important pages
+Allow: /
+Allow: /about
+Allow: /contact
+Allow: /products
+Allow: /category
+Allow: /help
+Allow: /terms
+Allow: /privacy
+Allow: /returns
+Allow: /shipping
+Allow: /careers
+Allow: /investor
+Allow: /press
+
+# Crawl delay
+Crawl-delay: 1

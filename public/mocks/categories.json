@@ -1,0 +1,86 @@
+[
+  {
+    "id": "groceries",
+    "name": "Groceries",
+    "icon": "🛒",
+    "description": "Daily essentials and food items",
+    "image": "https://images.pexels.com/photos/1435904/pexels-photo-1435904.jpeg?auto=compress&cs=tinysrgb&w=500"
+  },
+  {
+    "id": "fmcg",
+    "name": "FMCG",
+    "icon": "🧼",
+    "description": "Fast-moving consumer goods",
+    "image": "https://images.pexels.com/photos/4465124/pexels-photo-4465124.jpeg?auto=compress&cs=tinysrgb&w=500"
+  },
+  {
+    "id": "medicines",
+    "name": "Medicines",
+    "icon": "🩺",
+    "description": "Healthcare and medical supplies",
+    "image": "https://images.pexels.com/photos/3683056/pexels-photo-3683056.jpeg?auto=compress&cs=tinysrgb&w=500"
+  },
+  {
+    "id": "bakery",
+    "name": "Bakery",
+    "icon": "🥐",
+    "description": "Fresh baked goods and pastries",
+    "image": "https://images.pexels.com/photos/140831/pexels-photo-140831.jpeg?auto=compress&cs=tinysrgb&w=500"
+  },
+  {
+    "id": "shoes",
+    "name": "Shoes",
+    "icon": "👟",
+    "description": "Footwear for all occasions",
+    "image": "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg?auto=compress&cs=tinysrgb&w=500"
+  },
+  {
+    "id": "dresses",
+    "name": "Dresses",
+    "icon": "👗",
+    "description": "Fashion and clothing items",
+    "image": "https://images.pexels.com/photos/985635/pexels-photo-985635.jpeg?auto=compress&cs=tinysrgb&w=500"
+  },
+  {
+    "id": "kitchenware",
+    "name": "Kitchenware",
+    "icon": "🍳",
+    "description": "Kitchen appliances and utensils",
+    "image": "https://images.pexels.com/photos/4686832/pexels-photo-4686832.jpeg?auto=compress&cs=tinysrgb&w=500"
+  },
+  {
+    "id": "stationery",
+    "name": "Stationery",
+    "icon": "📚",
+    "description": "Office and school supplies",
+    "image": "https://images.pexels.com/photos/159751/book-address-book-learning-learn-159751.jpeg?auto=compress&cs=tinysrgb&w=500"
+  },
+  {
+    "id": "games",
+    "name": "Games",
+    "icon": "🎮",
+    "description": "Board games and entertainment",
+    "image": "https://images.pexels.com/photos/260024/pexels-photo-260024.jpeg?auto=compress&cs=tinysrgb&w=500"
+  },
+  {
+    "id": "gym",
+    "name": "Gym",
+    "icon": "🏋️",
+    "description": "Fitness and workout equipment",
+    "image": "https://images.pexels.com/photos/416717/pexels-photo-416717.jpeg?auto=compress&cs=tinysrgb&w=500"
+  },
+  {
+    "id": "beauty",
+    "name": "Beauty",
+    "icon": "💅",
+    "description": "Cosmetics and personal care",
+    "image": "https://images.pexels.com/photos/3018845/pexels-photo-3018845.jpeg?auto=compress&cs=tinysrgb&w=500"
+  },
+  {
+    "id": "electronics",
+    "name": "Electronics",
+    "icon": "🖥️",
+    "description": "Electronic devices and gadgets",
+    "image": "https://images.pexels.com/photos/788946/pexels-photo-788946.jpeg?auto=compress&cs=tinysrgb&w=500"
+  }
+]

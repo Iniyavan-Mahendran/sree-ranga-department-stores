@@ -1,0 +1,81 @@
+{
+  "common": {
+    "search": "தயாரிப்புகளைத் தேடுங்கள்...",
+    "cart": "வண்டி",
+    "login": "உள்நுழைவு",
+    "signup": "பதிவு செய்யவும்",
+    "logout": "வெளியேறு",
+    "loading": "ஏற்றுகிறது...",
+    "error": "பிழை",
+    "success": "வெற்றி",
+    "cancel": "ரத்து செய்",
+    "confirm": "உறுதிப்படுத்து",
+    "add_to_cart": "வண்டியில் சேர்",
+    "buy_now": "இப்போது வாங்கு",
+    "price": "விலை",
+    "discount": "தள்ளுபடி",
+    "rating": "மதிப்பீடு",
+    "reviews": "மதிப்புரைகள்",
+    "in_stock": "கையிருப்பில்",
+    "out_of_stock": "கையிருப்பில் இல்லை"
+  },
+  "header": {
+    "deliver_to": "டெலிவரி செய்ய",
+    "select_location": "உங்கள் இருப்பிடத்தை தேர்ந்தெடுக்கவும்",
+    "all_categories": "அனைத்தும்",
+    "account_lists": "கணக்கு மற்றும் பட்டியல்கள்",
+    "returns_orders": "திரும்பப் பெறுதல் மற்றும் ஆர்டர்கள்",
+    "hello_signin": "வணக்கம், உள்நுழையவும்"
+  },
+  "navigation": {
+    "all": "அனைத்தும்",
+    "fresh": "புதிய",
+    "bestsellers": "சிறந்த விற்பனை",
+    "todays_deals": "இன்றைய ஒப்பந்தங்கள்",
+    "customer_service": "வாடிக்கையாளர் சேவை",
+    "new_releases": "புதிய வெளியீடுகள்",
+    "fashion": "ஃபேஷன்",
+    "electronics": "மின்னணுவியல்",
+    "home_kitchen": "வீடு மற்றும் சமையலறை",
+    "computers": "கணினிகள்",
+    "books": "புத்தகங்கள்"
+  },
+  "categories": {
+    "groceries": "மளிகை",
+    "fmcg": "எஃப்எம்சிஜி",
+    "medicines": "மருந்துகள்",
+    "bakery": "பேக்கரி",
+    "shoes": "காலணிகள்",
+    "dresses": "ஆடைகள்",
+    "kitchenware": "சமையலறை பொருட்கள்",
+    "stationery": "எழுத்துப்பொருட்கள்",
+    "games": "விளையாட்டுகள்",
+    "gym": "உடற்பயிற்சி",
+    "beauty": "அழகு",
+    "electronics": "மின்னணுவியல்"
+  },
+  "cart": {
+    "shopping_cart": "ஷாப்பிங் கார்ட்",
+    "total": "மொத்தம்",
+    "checkout": "செக்அவுட்",
+    "empty_cart": "உங்கள் வண்டி காலியாக உள்ளது",
+    "continue_shopping": "ஷாப்பிங் தொடரவும்",
+    "remove": "அகற்று",
+    "update_quantity": "அளவு புதுப்பிக்கவும்"
+  },
+  "product": {
+    "product_details": "தயாரிப்பு விவரங்கள்",
+    "brand": "பிராண்ட்",
+    "description": "விளக்கம்",
+    "specifications": "விவரக்குறிப்புகள்",
+    "customer_reviews": "வாடிக்கையாளர் மதிப்புரைகள்",
+    "similar_products": "ஒத்த தயாரிப்புகள்"
+  },
+  "footer": {
+    "about_us": "எங்களைப் பற்றி",
+    "contact": "தொடர்பு",
+    "privacy_policy": "தனியுரிமை கொள்கை",
+    "terms_conditions": "விதிமுறைகள் மற்றும் நிபந்தனைகள்",
+    "follow_us": "எங்களைப் பின்பற்றுங்கள்"
+  }
+}

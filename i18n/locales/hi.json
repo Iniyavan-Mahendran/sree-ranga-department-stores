@@ -1,0 +1,81 @@
+{
+  "common": {
+    "search": "उत्पाद खोजें...",
+    "cart": "कार्ट",
+    "login": "लॉगिन",
+    "signup": "साइन अप",
+    "logout": "लॉगआउट",
+    "loading": "लोड हो रहा है...",
+    "error": "त्रुटि",
+    "success": "सफलता",
+    "cancel": "रद्द करें",
+    "confirm": "पुष्टि करें",
+    "add_to_cart": "कार्ट में जोड़ें",
+    "buy_now": "अभी खरीदें",
+    "price": "कीमत",
+    "discount": "छूट",
+    "rating": "रेटिंग",
+    "reviews": "समीक्षाएं",
+    "in_stock": "स्टॉक में",
+    "out_of_stock": "स्टॉक में नहीं"
+  },
+  "header": {
+    "deliver_to": "डिलीवर करें",
+    "select_location": "अपना स्थान चुनें",
+    "all_categories": "सभी",
+    "account_lists": "खाता और सूचियां",
+    "returns_orders": "रिटर्न और ऑर्डर",
+    "hello_signin": "नमस्ते, साइन इन करें"
+  },
+  "navigation": {
+    "all": "सभी",
+    "fresh": "ताज़ा",
+    "bestsellers": "बेस्टसेलर",
+    "todays_deals": "आज के डील",
+    "customer_service": "ग्राहक सेवा",
+    "new_releases": "नई रिलीज़",
+    "fashion": "फैशन",
+    "electronics": "इलेक्ट्रॉनिक्स",
+    "home_kitchen": "होम और किचन",
+    "computers": "कंप्यूटर",
+    "books": "किताबें"
+  },
+  "categories": {
+    "groceries": "किराना",
+    "fmcg": "एफएमसीजी",
+    "medicines": "दवाएं",
+    "bakery": "बेकरी",
+    "shoes": "जूते",
+    "dresses": "कपड़े",
+    "kitchenware": "रसोई के सामान",
+    "stationery": "स्टेशनरी",
+    "games": "खेल",
+    "gym": "जिम",
+    "beauty": "सुंदरता",
+    "electronics": "इलेक्ट्रॉनिक्स"
+  },
+  "cart": {
+    "shopping_cart": "शॉपिंग कार्ट",
+    "total": "कुल",
+    "checkout": "चेकआउट करें",
+    "empty_cart": "आपका कार्ट खाली है",
+    "continue_shopping": "खरीदारी जारी रखें",
+    "remove": "हटाएं",
+    "update_quantity": "मात्रा अपडेट करें"
+  },
+  "product": {
+    "product_details": "उत्पाद विवरण",
+    "brand": "ब्रांड",
+    "description": "विवरण",
+    "specifications": "विशेषताएं",
+    "customer_reviews": "ग्राहक समीक्षाएं",
+    "similar_products": "समान उत्पाद"
+  },
+  "footer": {
+    "about_us": "हमारे बारे में",
+    "contact": "संपर्क",
+    "privacy_policy": "गोपनीयता नीति",
+    "terms_conditions": "नियम और शर्तें",
+    "follow_us": "हमारा अनुसरण करें"
+  }
+}

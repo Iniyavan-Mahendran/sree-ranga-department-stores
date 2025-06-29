@@ -1,0 +1,81 @@
+{
+  "common": {
+    "search": "Search products...",
+    "cart": "Cart",
+    "login": "Login",
+    "signup": "Sign Up",
+    "logout": "Logout",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "add_to_cart": "Add to Cart",
+    "buy_now": "Buy Now",
+    "price": "Price",
+    "discount": "Discount",
+    "rating": "Rating",
+    "reviews": "Reviews",
+    "in_stock": "In Stock",
+    "out_of_stock": "Out of Stock"
+  },
+  "header": {
+    "deliver_to": "Deliver to",
+    "select_location": "Select your location",
+    "all_categories": "All",
+    "account_lists": "Account & Lists",
+    "returns_orders": "Returns & Orders",
+    "hello_signin": "Hello, sign in"
+  },
+  "navigation": {
+    "all": "All",
+    "fresh": "Fresh",
+    "bestsellers": "Bestsellers",
+    "todays_deals": "Today's Deals",
+    "customer_service": "Customer Service",
+    "new_releases": "New Releases",
+    "fashion": "Fashion",
+    "electronics": "Electronics",
+    "home_kitchen": "Home & Kitchen",
+    "computers": "Computers",
+    "books": "Books"
+  },
+  "categories": {
+    "groceries": "Groceries",
+    "fmcg": "FMCG",
+    "medicines": "Medicines",
+    "bakery": "Bakery",
+    "shoes": "Shoes",
+    "dresses": "Dresses",
+    "kitchenware": "Kitchenware",
+    "stationery": "Stationery",
+    "games": "Games",
+    "gym": "Gym",
+    "beauty": "Beauty",
+    "electronics": "Electronics"
+  },
+  "cart": {
+    "shopping_cart": "Shopping Cart",
+    "total": "Total",
+    "checkout": "Proceed to Checkout",
+    "empty_cart": "Your cart is empty",
+    "continue_shopping": "Continue Shopping",
+    "remove": "Remove",
+    "update_quantity": "Update Quantity"
+  },
+  "product": {
+    "product_details": "Product Details",
+    "brand": "Brand",
+    "description": "Description",
+    "specifications": "Specifications",
+    "customer_reviews": "Customer Reviews",
+    "similar_products": "Similar Products"
+  },
+  "footer": {
+    "about_us": "About Us",
+    "contact": "Contact",
+    "privacy_policy": "Privacy Policy",
+    "terms_conditions": "Terms & Conditions",
+    "follow_us": "Follow Us"
+  }
+}
